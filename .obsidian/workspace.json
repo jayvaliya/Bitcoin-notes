@@ -23,14 +23,12 @@
             "id": "c79a0e3e3066a134",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Demo.md",
-                "mode": "source",
-                "source": false
+                "path": "/"
               },
               "icon": "lucide-file",
-              "title": "Demo"
+              "title": "Bitcoin-notes"
             }
           }
         ],
@@ -88,7 +86,7 @@
             }
           },
           {
-            "id": "9f5199d0963ea7d0",
+            "id": "fe74dc95320f6a2c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -102,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 248.5078125
   },
   "right": {
     "id": "66be3c243d4f9ffd",
@@ -208,7 +206,16 @@
   },
   "active": "c79a0e3e3066a134",
   "lastOpenFiles": [
-    "Demo.md",
+    "The Meaning of Decentralization.md",
+    "Resources.md",
+    "Proof of work.md",
+    "Grokking bitcoin/4.wallet.md",
+    "Grokking bitcoin/2.Cryptography & Hash Function.md",
+    "Grokking bitcoin/1.Intro to Bitcoin.md",
+    "Grokking bitcoin",
+    "Consensus Protocols (Bitcoin).md",
+    "Consensus Protocol.md",
+    "Bitcoin-notes.md",
     "README.md",
     "Untitled",
     "Tags"
